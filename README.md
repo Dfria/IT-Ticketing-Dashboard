@@ -2,6 +2,25 @@
 
 Hello! Welcome to my IT Ticketing Dashboard project using Power BI. This dashboard aims to showcase my capabilities and skillset in Power BI. The project uses AI-generated data from the "tickets" table, which can be found in the /Data/tickets.csv directory.
 
+1. [Introduction](#introduction)
+   - [Dashboard Examples](#dashboard-examples)
+     - [Light Mode Main Page](#light-mode-main-page)
+     - [Dark Mode Main Page](#dark-mode-main-page)
+     - [Filter Implementations](#filter-implementations)
+       - [Filtering page by the Closed Tickets on specific month](#filtering-page-by-the-closed-tickets-on-specific-month)
+       - [Filtering page by the Average Completion Time (CT) on specific month](#filtering-page-by-the-average-completion-time-ct-on-specific-month)
+     - [Drill Through Implementation - Closed Tickets Line Graph](#drill-through-implementation---closed-tickets-line-graph)
+       - [Drill through for the Closed Tickets Line Graph](#drill-through-for-the-closed-tickets-line-graph)
+       - [Closed Tickets Drill Through Page example](#closed-tickets-drill-through-page-example)
+       - [The Line Graph now investigates the months by week](#the-line-graph-now-investigates-the-months-by-week)
+       - [Data for Week 3, Nov 2023](#data-for-week-3-nov-2023)
+2. [Dashboard Functionalities](#dashboard-functionalities)
+   - [Tables and Columns](#tables-and-columns)
+   - [Bar Charts](#bar-charts)
+   - [Dark Mode and Light Mode](#dark-mode-and-light-mode)
+   - [Cards](#cards)
+   - [Other Features](#other-features)
+     
 ## Dashboard Examples:
 ### Light Mode Main Page
 ![image](https://github.com/Dfria/IT-Ticketing-Dashboard/assets/90019629/d61d8e63-8f9e-4dc4-8feb-28ff4cfba5e3)
@@ -78,13 +97,9 @@ Hello! Welcome to my IT Ticketing Dashboard project using Power BI. This dashboa
 
 - **Drill Through Implementation - Closed Tickets Line Graph:**
   - Allows for in-depth investigation of data.
-  
-  *(Example: Drill through to Closed Tickets Line Graph with months displayed by week. Clicking a marker filters the Table on the left.)*
 
-  - **Closed Tickets Drill Through Page example:**
-    - The Line Graph now investigates the months by week. Clicking a marker filters the Table on the left.
-
-    *(Example: Data for Week 3, Nov 2023)*
+- **Closed Tickets Drill Through Page example:**
+  - The Line Graph now investigates the months by week. Clicking a marker filters the Table on the left.
 
 
 
